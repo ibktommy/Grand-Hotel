@@ -1,0 +1,426 @@
+@media screen and (max-width: 1600px) {
+	html {
+		font-size: 60%;
+	}
+
+	.search-btn {
+		width: 20vw;
+	}
+
+	.nav-menu_footer p {
+		font-size: 1.4rem;
+	}
+}
+
+@media screen and (max-width: 1400px) {
+	.header-line {
+		width: 20rem;
+	}
+
+	.header-line_1 {
+		height: .12rem;
+	}
+	.header-line_2 {
+		height: .16rem;
+	}
+	.showcase-logo img {
+		width: 8rem;
+	}
+
+	.logo-text {
+		font-size: 2.5rem;
+		letter-spacing: .2rem;
+	}
+
+	.showcase-heading {
+		font-size: 5rem;
+	}
+
+	.showcase-para {
+		font-size: 2rem;
+		font-weight: 400;
+	}
+
+	.showcase-btn {
+		width: 20rem;
+		font-size: 1.6rem;
+	}
+
+	.about-heading {
+		font-size: 3.5rem;
+	}
+
+	.about-para {
+		width: 50rem;
+		font-size: 1.4rem;
+	}
+
+	.common-btn {
+		width: 15rem;
+		border: .2rem solid var(--main-color);
+	}
+
+	.common-btn_text {
+		font-size: 1.5rem;
+	}
+
+	.about-images {
+		margin-left: 4rem;
+	}
+
+	.about-images img {
+		width: 30rem;
+	}
+
+	.rooms-heading {
+		font-size: 3.5rem;
+	}
+
+	.room-info {
+		padding: 1.5rem;
+	}
+
+	.room-name {
+		font-size: 1.8rem;
+	}
+
+	.room-desc {
+		font-size: 1.3rem;
+	}
+
+	.room-btn p {
+		font-size: 1.2rem;
+	}
+
+	.room-price {
+		font-size: 3rem;
+	}
+
+	.btn-room {
+		padding: 1rem 2rem;
+	}
+
+	.btn-room p {
+		font-size: 1rem;
+		font-weight: 700;
+	}
+
+	.customers-para {
+		font-size: 1.5rem;
+	}
+
+	.customers-feedback {
+		padding: 0 2rem;
+	}
+
+	.customers-card img {
+		width: 15rem;
+		height: 10rem;
+	}
+
+	.customers-name {
+		font-size: 1.6rem;
+	}
+
+	.customers-details p:first-of-type {
+		font-size: 1.4rem;
+	}
+
+	.customers-text {
+		font-size: 1.2rem;
+	}
+
+	.footer-list_header {
+		font-size: 2rem;
+	}
+
+	.footer-list li,
+	.contact-text {
+		font-size: 1.4rem;
+	}
+
+	.contact-btn {
+		width: 100%;
+	}
+
+	.contact-btn input[type="email"] {
+		width: 50%;
+	}
+
+	.footer-bottom {
+		font-size: 1.4rem;
+	}
+}
+
+@media screen and (max-width: 1100px) {
+	html {
+		font-size: 55%;
+	}
+
+	.nav-menu {
+		overflow: hidden;
+	}
+
+	.search-btn i {
+		opacity: 0;
+		visibility: hidden;
+	}
+
+	.nav-item {
+		font-size: 1.4rem;
+	}
+
+	.nav-menu_footer p {
+		font-size: 1.2rem;
+	}
+
+	.about-section {
+		flex-direction: column;
+		padding: 5rem 0 20rem 0;
+	}
+
+	.about-text {
+		padding-top: 3rem;
+		margin-bottom: 15rem;
+		flex-basis: 100%;
+	}
+
+	.about-text .logo-text {
+		margin: 2rem 0;
+	}
+
+	.about-images {
+		flex-basis: 100%;
+	}
+
+	.rooms-content {
+		width: 100%;
+	}
+
+	.customers-feedback {
+		width: 100%;
+		flex-direction: column;
+		padding: 0 10rem;
+	}
+
+	.customers-card {
+		width: 100%;
+	}
+
+	.footer-top {
+		flex-direction: column;
+		width: 100%;
+	}
+
+	.footer-list {
+		width: 100%;
+		padding: 0 10rem 0 2rem;
+	}
+
+	.footer-gallery {
+		margin-top: 5rem;
+		padding-bottom: 2rem;
+	}
+}
+
+@media screen and (max-width: 800px) {
+	.header-line {
+		opacity: 0;
+		visibility: hidden;
+	}
+	.navbar {
+		width: 10rem;
+	}
+
+	.nav-menu {
+		left: 10rem;
+	}
+
+	.change .nav-menu {
+		width: 70vw;
+	}
+
+	.search-btn {
+		min-width: 50vw;
+	}
+
+	.nav-item {
+		font-size: 3rem;
+	}
+
+	.main-body {
+		width: calc(100vw - 10rem);
+		margin-left: 10rem;
+	}
+
+	.search-btn {
+		width: 80%;
+	}
+
+	.search-btn i {
+		opacity: 0;
+		visibility: hidden;
+	}
+
+	.showcase-heading {
+		font-size: 3rem;
+		font-weight: 700;
+		letter-spacing: .2;
+	}
+
+	.showcase-para {
+		font-size: 2rem;
+	}
+
+	.showcase-btn {
+		width: 20rem;
+	}
+
+	.about-heading {
+		font-size: 3rem;
+		padding-bottom: 0;
+	}
+
+	.about-para {
+		width: 60%;
+		text-align: center;
+	}
+
+	.about-text .logo-text {
+		font-size: 3.5rem;
+	}
+
+	.about-images img {
+		width: 25rem;
+	}
+
+	.rooms-heading {
+		font-size: 3rem;
+		font-weight: 500;
+	}
+
+	.room-card {
+		width: 30rem;
+	}
+
+	.room-btn {
+		width: 13rem;
+		border-radius: 2rem;
+	}
+
+	.room-btn p {
+		font-size: 1.2rem;
+	}
+
+	.room-price {
+		font-size: 2.5rem;
+		align-self: flex-end;
+	}
+
+	.customers-para {
+		font-size: 2rem;
+	}
+
+	.customers-feedback {
+		width: 100%;
+		padding: 0 2rem;
+	}
+
+	.customers-card {
+		flex-direction: column;
+		padding-top: 0;
+	}
+
+	.customers-card img,
+	.customers-details {
+		flex-basis: 100%;
+	}
+
+	.customers-details {
+		padding: 2rem;
+	}
+
+	.customers-name {
+		font-size: 2.5rem;
+	}
+
+	.customers-details p:first-of-type {
+		font-size: 1.8rem;
+	}
+
+	.customers-para {
+		width: 100%;
+	}
+
+	.customers-text {
+		font-size: 2rem;
+		text-align: start;
+	}
+
+	.customers-card img {
+		margin-left: 0;
+		height: auto;
+		width: 100%;
+	}
+
+	.footer-list_header {
+		font-size: 4rem;
+	}
+
+	.gallery-img {
+		width: 100%;
+		margin: 0;
+	}
+
+	.footer-bottom {
+		flex-direction: column;
+		justify-content: center;
+		padding: 3rem 3rem 0 3rem;
+	}
+
+	.footer-bottom > * {
+		margin-bottom: 1rem;
+	}
+
+	.designer-author {
+		align-self: center;
+	}
+
+	.gallery-img img {
+		margin-bottom: 2rem;
+	}
+}
+
+@media screen and (max-width: 500px) {
+	html {
+		font-size: 45%;
+	}
+
+	.showcase-heading {
+		text-align: center;
+	}
+
+	.about-images img {
+		width: 20rem;
+	}
+
+	.rooms-heading {
+		text-align: center;
+	}
+
+	.room-price {
+		font-size: 1.6rem;
+	}
+
+	.customers-heading {
+		text-align: center;
+	}
+
+	.contact-btn {
+		width: 22rem;
+	}
+
+	.footer-list_header {
+		font-size: 3rem;
+	}
+}
