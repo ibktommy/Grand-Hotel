@@ -1,7 +1,7 @@
 <h1 align="center">{GRAND HOTEL}</h1>
 
 <div align="center">
-   <h2>This is the Landing page of an imaginary Hotel that I found the template on the internet. The designed is originally done by <b>CodeAndCreate</b> an Udemy Instructor.</h2>
+   <h2>This is the Landing page of an imaginary Hotel that I found the template on the internet. The designed is originally done by <b>"CodeAndCreate"</b> an Udemy Instructor.</h2>
    
    <h3>I code the landing page following the template design. I have added other things like <b>Animations</b>, <b>Image Filter</b> etc. to the project.</h3>
 
@@ -12,7 +12,7 @@
 
 ## Overview
 
-<!-- ![screenshot](https://github.com/ibktommy/Dev-Challenge-My-Team_Page/blob/master/Project%20screenshot.png) -->
+![screenshot](https://github.com/ibktommy/Grand-Hotel/blob/master/img/Project%20Screenshot.png)
 
 ### Built With
 
