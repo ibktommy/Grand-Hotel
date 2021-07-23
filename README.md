@@ -8,6 +8,22 @@
    <h3>I also make the landing page responsive to different screen sizes so as to enable it look elegant on various devices.</h3>
 </div>
 
+<div align="center">
+  <h3>
+    <a href="{https://github.com/ibktommy/Grand-Hotel}">
+      Demo
+    </a>
+    <!-- <span> | </span>
+    <a href="https://ibktommy404-error-devchallenge.netlify.app/">
+      Solution
+    </a>
+    <span> | </span>
+    <a href="https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY">
+      Challenge
+    </a> -->
+  </h3>
+</div>
+
 <!-- OVERVIEW -->
 
 ## Overview
