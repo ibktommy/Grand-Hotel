@@ -1,11 +1,11 @@
 <h1 align="center">{GRAND HOTEL}</h1>
 
 <div align="center">
-   <h2>This is the Landing page of an imaginary Hotel that I found the template on the internet. The designed is originally done by <b>"CodeAndCreate"</b> an Udemy Instructor.</h2>
+   <h2>This is the Landing page of an imaginary Hotel that I found the template on the internet. The design is originally done by <b>"CodeAndCreate"</b> an Udemy Instructor.</h2>
    
    <h3>I code the landing page following the template design. I have added other things like <b>Animations</b>, <b>Image Filter</b> etc. to the project.</h3>
 
-   <h3>I also make the landing page responsive to different screen sizes so as to enable it look elegant on various devices.</h3>
+   <h3>I have also make the landing page responsive to different screen sizes so as to enable it look elegant on various devices.</h3>
 </div>
 
 <div align="center">
