@@ -13,14 +13,10 @@
     <a href="https://github.com/ibktommy/Grand-Hotel">
       Demo
     </a>
-    <!-- <span> | </span>
-    <a href="https://ibktommy404-error-devchallenge.netlify.app/">
-      Solution
-    </a>
     <span> | </span>
-    <a href="https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY">
-      Challenge
-    </a> -->
+    <a href="https://ibktommy-grandhotel-website.netlify.app/">
+      Project Website
+    </a>
   </h3>
 </div>
 
